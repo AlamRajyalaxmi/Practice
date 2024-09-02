@@ -1,0 +1,22 @@
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+/* Next & previous buttons */
+.prev, .next {
+    /* Add your styling here */
+}
+/* Caption text */
+.text {
+    /* Add your styling here */
+}
+/* The dots/bullets/indicators */
+.dot {
+    /* Add your styling here */
+}
